@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-31T14:29:18 NZDT" name="Suite" finished-at="2023-12-31T14:29:40 NZDT" duration-ms="22707">
+    <groups>
+    </groups>
+    <test started-at="2023-12-31T14:29:18 NZDT" name="Test" finished-at="2023-12-31T14:29:40 NZDT" duration-ms="22707">
+      <class name="org.testing.testScripts.TC10_DeleteEmployeeRecord">
+        <test-method signature="testcase10()[pri:0, instance:org.testing.testScripts.TC10_DeleteEmployeeRecord@4efac082]" started-at="2023-12-31T14:29:30 NZDT" name="testcase10" finished-at="2023-12-31T14:29:40 NZDT" duration-ms="10482" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase10 -->
+      </class> <!-- org.testing.testScripts.TC10_DeleteEmployeeRecord -->
+      <class name="org.testing.testScripts.TC8_AddnewEmployee">
+        <test-method signature="testcase8()[pri:0, instance:org.testing.testScripts.TC8_AddnewEmployee@29215f06]" started-at="2023-12-31T14:29:28 NZDT" name="testcase8" finished-at="2023-12-31T14:29:29 NZDT" duration-ms="1057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase8 -->
+      </class> <!-- org.testing.testScripts.TC8_AddnewEmployee -->
+      <class name="org.testing.testScripts.TC1_postRequest">
+        <test-method signature="testcase1()[pri:0, instance:org.testing.testScripts.TC1_postRequest@3cebbb30]" started-at="2023-12-31T14:29:18 NZDT" name="testcase1" finished-at="2023-12-31T14:29:24 NZDT" duration-ms="6426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.testing.testScripts.TC1_postRequest -->
+      <class name="org.testing.testScripts.TC9_UpdateEmployeeRecord">
+        <test-method signature="testCase9()[pri:0, instance:org.testing.testScripts.TC9_UpdateEmployeeRecord@59505b48]" started-at="2023-12-31T14:29:29 NZDT" name="testCase9" finished-at="2023-12-31T14:29:30 NZDT" duration-ms="946" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+      </class> <!-- org.testing.testScripts.TC9_UpdateEmployeeRecord -->
+      <class name="org.testing.testScripts.TC7_getparticularEmployeeInformation">
+        <test-method signature="testcase7()[pri:0, instance:org.testing.testScripts.TC7_getparticularEmployeeInformation@2d710f1a]" started-at="2023-12-31T14:29:27 NZDT" name="testcase7" finished-at="2023-12-31T14:29:28 NZDT" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase7 -->
+      </class> <!-- org.testing.testScripts.TC7_getparticularEmployeeInformation -->
+      <class name="org.testing.testScripts.TC2_getALL">
+        <test-method signature="testcase2()[pri:0, instance:org.testing.testScripts.TC2_getALL@55634720]" started-at="2023-12-31T14:29:24 NZDT" name="testcase2" finished-at="2023-12-31T14:29:25 NZDT" duration-ms="790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- org.testing.testScripts.TC2_getALL -->
+      <class name="org.testing.testScripts.TC6_getALLEmployeeInformation">
+        <test-method signature="testcase6()[pri:0, instance:org.testing.testScripts.TC6_getALLEmployeeInformation@d9345cd]" started-at="2023-12-31T14:29:27 NZDT" name="testcase6" finished-at="2023-12-31T14:29:27 NZDT" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase6 -->
+      </class> <!-- org.testing.testScripts.TC6_getALLEmployeeInformation -->
+      <class name="org.testing.testScripts.TC5_DeleteRequest">
+        <test-method signature="testcase5()[pri:0, instance:org.testing.testScripts.TC5_DeleteRequest@428640fa]" started-at="2023-12-31T14:29:26 NZDT" name="testcase5" finished-at="2023-12-31T14:29:27 NZDT" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- org.testing.testScripts.TC5_DeleteRequest -->
+      <class name="org.testing.testScripts.TC4_UpdateRequest">
+        <test-method signature="testCase4()[pri:0, instance:org.testing.testScripts.TC4_UpdateRequest@4c1909a3]" started-at="2023-12-31T14:29:26 NZDT" name="testCase4" finished-at="2023-12-31T14:29:26 NZDT" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+      </class> <!-- org.testing.testScripts.TC4_UpdateRequest -->
+      <class name="org.testing.testScripts.TC3_GetParticularRequest">
+        <test-method signature="testcase3()[pri:0, instance:org.testing.testScripts.TC3_GetParticularRequest@4b0d79fc]" started-at="2023-12-31T14:29:25 NZDT" name="testcase3" finished-at="2023-12-31T14:29:26 NZDT" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- org.testing.testScripts.TC3_GetParticularRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

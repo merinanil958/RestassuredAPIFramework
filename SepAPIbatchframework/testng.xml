@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+		   <class name="org.testing.testScripts.TC1_postRequest"/>
+		   <class name="org.testing.testScripts.TC2_getALL"/>
+           <class name="org.testing.testScripts.TC3_GetParticularRequest"/>
+            <class name="org.testing.testScripts.TC4_UpdateRequest"/>
+           <class name="org.testing.testScripts.TC5_DeleteRequest"/>
+            <class name="org.testing.testScripts.TC6_getALLEmployeeInformation"/>
+             <class name="org.testing.testScripts.TC7_getparticularEmployeeInformation"/>
+              <class name="org.testing.testScripts.TC8_AddnewEmployee"/>
+              <class name="org.testing.testScripts.TC9_UpdateEmployeeRecord"/>
+              <class name="org.testing.testScripts.TC10_DeleteEmployeeRecord"/>
+    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
